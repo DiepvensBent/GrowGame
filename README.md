@@ -1,2 +1,2 @@
-Download all 3 files
-Start by opening index.html
+Download the html,css and js file.
+Start by opening index.html.
