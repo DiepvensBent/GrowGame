@@ -1,0 +1,67 @@
+.colors,
+#selectedColors {
+    display: flex;
+    flex-direction: row;
+}
+
+#previousSelections {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+
+
+.colorDiv {
+    width: 2em;
+    height: 2em;
+    margin: 0.2em;
+    border-radius: 100%;
+}
+
+.colors div:hover {
+    opacity: 0.5;
+}
+
+.red {
+    background-color: Red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.gray {
+    background-color: gray;
+}
+
+body {
+    background-color: wheat;
+}
+
+.rightColor {
+    background-color: white;
+}
+
+.rightPosition {
+    background-color: Black;
+}
+
+hr {
+    margin: 0;
+    width: 0.5em;
+    color: black;
+    background-color: black;
+    border: 0;
+}
